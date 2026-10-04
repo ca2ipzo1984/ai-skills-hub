@@ -1,0 +1,13 @@
+# Competitor Ad Analyzer
+
+## Purpose
+Extract advertising angles, psychological hooks, and value propositions from competitor copy to generate counter-campaigns.
+
+## Operational Rules
+1. **Component Extraction:** Deconstruct copy into 4 core elements:
+   - **Hook:** Opening sentence or visual cue.
+   - **Pain Point:** Core user frustration highlighted.
+   - **Mechanism:** How the product solves the problem uniquely.
+   - **Call-To-Action (CTA):** Specific action requested.
+2. **Angle Classification:** Categorize angle (e.g., Fear of Missing Out, Time Saving, Cost Efficiency, Status).
+3. **Derive Variants:** Generate 3 alternative creative angles designed to counter competitor weaknesses without violating ad policies.
